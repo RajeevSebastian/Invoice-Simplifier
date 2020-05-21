@@ -1,5 +1,5 @@
 # Invoice Simplifier 
-Link to app - http://52.90.25.33:3000/
+
 
 Invoice simplifier is a productivity application that tracks and analyses your expenses using invoice photos, thus eliminating the need for you to spend hours managing your expenses and budget.
 
